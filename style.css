@@ -2,3 +2,7 @@ body{
     background-color: lightcyan;
     color:lightcoral
 }
+
+h1,h2{
+    color: lightgreen;
+}
